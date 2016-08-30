@@ -1,40 +1,56 @@
-Complete this Form before the third check in. Delete this line from your version.
 
 # Game Time Check In # 3
 
 ## Instructor Goal Completion
 
 ### GOAL 1
-
-  - Provide a screenshot or gif or link to code for this goal
+  - [Link to commit with goal accomplished](https://github.com/nickpisciotta/game-time/blob/master/lib/game.js#L64-L72)
   - Did you deviate from the instructions? Tell us about it.
+
+    We did not deviate from the instructions here.
   - Questions, Comments, Concerns?
 
-### GOAL 2
+    Testing these collisions has been difficult since a canvas object must be defined within the test suite for the game file to run.
 
-- Provide a screenshot or gif or link to code for this goal
+
+### GOAL 2
+- [Link to commit with goal accomplished](https://github.com/nickpisciotta/game-time/blob/master/lib/obstacle.js#L4-L16)
 - Did you deviate from the instructions? Tell us about it.
+
+  We did not deviate here.  All pieces and background now have images.
 - Questions, Comments, Concerns?
+
+  None at this time.
+
 
 ### GOAL 3
-
-- Provide a screenshot or gif or link to code for this goal
 - Did you deviate from the instructions? Tell us about it.
+
+  Scoring plan has been completed and some functional code exists. We also have code that is saving the player's lives into local storage.  The same will be done for the score.
 - Questions, Comments, Concerns?
 
+  None, really.  Just need to finalize this and display it on the page.
 ### GOAL 4
 
-- Provide a screenshot or gif or link to code for this goal
-- Did you deviate from the instructions? Tell us about it.
 - Questions, Comments, Concerns?
 
+  Haven't coded out level advancement just yet, but imagine it will check game state and depending on the level, the pieces will move proportionally (level 3 = 3x speed of obstacles)
 ## Next Steps?
 
 - What do you feel the next steps should be?
+- Increase test coverage
+- Finalize scoring/local storage
+- Add level state to game and increase the levels after a min score
+  has been achieved.
+- Add platforms in the upper half of the screen
+- README
+- Definitely need to continue refactoring
 
 ### General Questions, Comments, Concerns?
-
------
+- How can we test the game functions without the canvas
+- Best styling practices in JS
+- Figuring out tricks to minimalize the requestAnimation
+- Code organization
 
 # Instructor Section
 
