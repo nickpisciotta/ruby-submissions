@@ -54,7 +54,7 @@ gist:
 
 ### Nick Pisciotta
 
-gist:https://gist.github.com/nickpisciotta/f991f494b4dd4f06f22c4aa77038472b
+gist:
 
 ### Parker Phillips
 
