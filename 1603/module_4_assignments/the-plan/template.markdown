@@ -74,13 +74,13 @@
 * Cons: Only hiring in SF
 
 ### 2. Ibotta
-* Turing Alum:
-* GitHub Page:
+* Turing Alum: None
+* GitHub Page: https://github.com/Ibotta
 * Tech Stack:
-* Tech I've Worked With:
-* Tech I'm Familiar With:
+* Tech I've Worked With: ROR, Node, React
+* Tech I'm Familiar With: Ember
 * Future Meetups:
-* Technical Interview Info:
+* Technical Interview Info: Working with their APIs
 * Pros: Great company--growing quickly
 * Cons: Apparently not interested in hiring Juniors
 
